@@ -1,0 +1,115 @@
+[
+    { 
+      "id": 1, 
+      "name": "Shoes", 
+      "price": 2100, 
+      "img": "/product-1.jpg", 
+      "category": "Men's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 2, 
+      "name": "Shirt", 
+      "price": 2800, 
+      "img": "/shirt-img.jpg", 
+      "category": "Men's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 3, 
+      "name": "Bag", 
+      "price": 1500, 
+      "img": "/women-bag-img.jpg", 
+      "category": "Women's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 4, 
+      "name": "Watch", 
+      "price": 2500, 
+      "img": "/watch.jpg", 
+      "category": "Electronics",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 5, 
+      "name": "Shoes", 
+      "price": 4100, 
+      "img": "/shoes 2.jpg", 
+      "category": "Men's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 6, 
+      "name": "Wallet", 
+      "price": 2240, 
+      "img": "/wallet.jpg", 
+      "category": "Men's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 7, 
+      "name": "Sandal", 
+      "price": 3100, 
+      "img": "/product.png", 
+      "category": "Women's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 8, 
+      "name": "Bag", 
+      "price": 2370, 
+      "img": "/bag 2.jpg", 
+      "category": "Women's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 9, 
+      "name": "Shoes For Women", 
+      "price": 2370, 
+      "img": "/shoes 3.jpg", 
+      "category": "Women's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 10, 
+      "name": "Winter Hoodie", 
+      "price": 1500, 
+      "img": "/img 1.webp", 
+      "category": "Men's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 11, 
+      "name": "Parse", 
+      "price": 2700, 
+      "img": "/img 2.webp", 
+      "category": "Women's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 12, 
+      "name": "Air Pods", 
+      "price": 2150, 
+      "img": "/img 3.webp", 
+      "category": "Electronics",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 13, 
+      "name": "Watch", 
+      "price": 3500, 
+      "img": "/img 4.webp", 
+      "category": "Electronics",
+      "description": "Comfortable and stylish shoes for all occasions."
+    },
+    { 
+      "id": 14, 
+      "name": "Shoes", 
+      "price": 4800, 
+      "img": "/img 5.webp", 
+      "category": "Men's Fashion",
+      "description": "Comfortable and stylish shoes for all occasions."
+    }
+  ]
+  

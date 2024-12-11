@@ -11,6 +11,20 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      plugins: [
+        function ({ addUtilities }) {
+          addUtilities({
+            '.scrollbar-hide': {
+              /* Hide scrollbar */
+              '-ms-overflow-style': 'none', /* IE and Edge */
+              'scrollbar-width': 'none',   /* Firefox */
+            },
+            '.scrollbar-hide::-webkit-scrollbar': {
+              display: 'none', /* Chrome, Safari, and Opera */
+            },
+          });
+        },
+      ],
     },
   },
   plugins: [],
