@@ -39,7 +39,8 @@ const Navbar = () => {
             <Link href="/">Home</Link>
           </li>
           <li className="text-gray-700 hover:text-pink-600 cursor-pointer">About</li>
-          <li className="text-gray-700 hover:text-pink-600 cursor-pointer"><Link href="#products">Shop</Link></li>
+          <li className="text-gray-700 hover:text-pink-600 cursor-pointer"><Link href="/Uplod">Uplod</Link></li>
+          <li className="text-gray-700 hover:text-pink-600 cursor-pointer"><Link href="/shop">Your Products</Link></li>
          
           
           <li className="text-gray-700 hover:text-pink-600 cursor-pointer">
